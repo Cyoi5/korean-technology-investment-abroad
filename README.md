@@ -111,12 +111,66 @@ The finding is consistent with broader Korea-U.S. cooperation priorities that id
 
 ## Limitations
 
-*To be completed.*
+## Limitations
+
+This project has several limitations that should be considered when interpreting the findings.
+
+First, the dataset contains only 10 documented projects across El Salvador, Mexico, and the United States. The sample is relatively small and is intended to support exploratory comparison rather than statistical estimation of Korean investment or cooperation in each country.
+
+Second, the cases were selected purposely based on their relevance to the research question and the availability of public documentation. As a result, the selected projects may not represent the full range of Korean activities in these countries. Projects that were less visible, less extensively documented, or outside the project's technology and investment focus may be underrepresented. Purposeful case selection is useful for identifying information-rich cases, but it does not support broad statistical generalization.
+
+Third, the three countries have different economic and institutional contexts, and the projects represent different forms of Korean engagement. The El Salvador cases are primarily development-cooperation projects, while the Mexico and United States cases include corporate investment, manufacturing, joint ventures, and technology-oriented activities. These differences make direct comparisons more descriptive than statistically equivalent.
+
+Fourth, investment amounts are not available for every project. Where a reliable project-specific amount could not be identified, the value was left blank rather than estimated. Therefore, the dataset should not be used to calculate precise country-level investment totals or averages.
+
+Finally, the project primarily analyzes publicly documented project characteristics and stated objectives. The dataset does not yet measure the long-term outcomes or effectiveness of technology transfer, such as actual knowledge diffusion, employment outcomes, productivity changes, or the extent to which local organizations adopted transferred technologies.
+
+For these reasons, the findings should be interpreted as exploratory observations about the selected cases rather than representative estimates of South Korean investment, development cooperation, or technology transfer worldwide.
+
 
 ## Future Research
 
-*To be completed.*
+This project could be expanded in several directions as additional data become available.
+
+First, the dataset could be expanded beyond the current 10 projects to include a larger number of Korean investments, development-cooperation initiatives, research partnerships, and technology projects. A larger dataset would make it possible to examine patterns across a wider range of industries, organizations, project sizes, and time periods.
+
+Second, the geographic scope could be expanded to include additional countries in Latin America, Asia, Europe, and other regions where South Korean companies and organizations are active. This would allow for broader comparisons of how Korean investment and technology cooperation differ across developed and emerging markets.
+
+Third, future versions of the project could move beyond documenting technology-oriented projects to measuring technology and knowledge transfer more directly. Potential indicators could include local employee training, partnerships with universities or research institutions, local supplier development, adoption of new technologies by domestic firms, R&D collaboration, patents, technology licensing, and the development of local technical capabilities. Research on foreign direct investment suggests that technology transfer and knowledge spillovers can vary substantially by sector and by the ability of local organizations to absorb new knowledge.
+
+Fourth, the project could incorporate primary research. Interviews with employees, researchers, government officials, universities, local business partners, or other stakeholders could provide information that is not available in public company and government announcements. Combining multiple sources can help distinguish between an organization's stated objectives and the project's actual outcomes.
+
+Finally, the project could develop into a more quantitative analysis by examining relationships between Korean investment, technology intensity, employment, local partnerships, and other economic or innovation indicators. This could eventually allow the project to move from an exploratory case-study dataset toward a larger comparative analysis of Korean international investment and technology transfer.
 
 ## Sources
 
-*To be completed.*
+The dataset was compiled from publicly available government, corporate, and institutional sources. Sources were selected based on their relevance to the documented project or initiative and the availability of project-specific information.
+
+### El Salvador
+
+* Ministerio de Relaciones Exteriores de El Salvador — *El Salvador y Corea trabajan de la mano por la innovación y el desarrollo tecnológico* — Korea Innovation Nexus for R&D Collaboration.
+* Ministerio de Relaciones Exteriores de El Salvador — *El Salvador avanza hacia una nueva era industrial con la cooperación de Corea del Sur* — ITCA-FEPADE Industrial Innovation Training Center.
+* Ministerio de Relaciones Exteriores de El Salvador — *Corea apoya la habilitación de instalaciones con recursos innovadores para las MYPES* — Centro de Innovación de Emprendimiento Digital (CIED).
+
+### Mexico
+
+* Presidencia de la República — *Plan México: presidenta destaca inversión de Kia de 649 mdd para producción de vehículo eléctrico* — Kia EV3 production and electromobility expansion.
+* Gobierno del Estado de Nuevo León — *Desde Corea del Sur concreta Samuel 1000 mdp más para NL* — Hyundai Mobis technology and automotive expansion.
+* LG Global — *LG Magna E-Powertrain Celebrates Groundbreaking of New Facility in Mexico* — Ramos Arizpe EV powertrain manufacturing facility.
+* Secretaría de Relaciones Exteriores de México — *In meetings with Foreign Secretary Ebrard, Korean companies announce investments in Mexico* — Samsung Electronics expansion in Querétaro and Tijuana.
+
+### United States
+
+* SK hynix Newsroom — *SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana* — Indiana advanced HBM packaging and R&D facility.
+* Samsung SDI — *SAMSUNG SDI and General Motors Finalize Agreement to Establish Battery Joint Venture in the U.S.* — New Carlisle, Indiana battery manufacturing project.
+* Hyundai Motor Group — *Hyundai Motor Group Deepens Engagement with San Francisco’s Innovation Ecosystem* — AVP Silicon Valley and future-mobility innovation activities.
+
+### Broader Context
+
+* Ministry of Foreign Affairs, Republic of Korea — Korea-U.S. cooperation on semiconductors, EV batteries, artificial intelligence, autonomous robotics, and other advanced technologies.
+* U.S. Commercial Service — *Korea Digital Economy* — background on Korea's digital economy, AI, semiconductors, automation, and robotics.
+* Ministry of Economy and Finance, Republic of Korea — 2026 policy materials on semiconductors, AI, robotics, autonomous vehicles, and related technologies.
+
+### Source Selection
+
+Government and institutional sources were prioritized where available, supplemented by official corporate sources for company-specific projects. Investment amounts were recorded only when a project-specific figure could be supported by a reliable source; otherwise, the investment field was left blank.
