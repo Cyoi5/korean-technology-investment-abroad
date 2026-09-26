@@ -86,15 +86,28 @@ The El Salvador cases are particularly connected to infrastructure, education, i
 
 These differences suggest that Korean international engagement can take multiple forms, ranging from development cooperation and infrastructure support to corporate manufacturing investment and advanced technology activities.
 
-Because the dataset is a purposively selected sample of 10 projects, these observations should not be interpreted as representative of all Korean activity in each country.
+Because the dataset is a purposefully selected sample of 10 projects, these observations should not be interpreted as representative of all Korean activity in each country.
 
 ### Finding 2 — Sector Distribution
 
-*To be completed.*
+Automotive and technology are the most frequently represented primary sectors in the selected 10-project dataset, with three projects each. Electronics appears in two projects, while education and energy each appear once.
+
+The automotive cases are strongly connected to technological transformation, including electric vehicles, electric powertrains, vehicle electrification, autonomous-driving systems, and semiconductor-related technologies. The technology-focused cases similarly emphasize automation, digital fabrication, prototyping, 3D technologies, AI, robotics, and other forms of digital transformation.
+
+This overlap suggests that the distinction between "technology" and "manufacturing" is not always clear-cut in the selected cases. Several projects combine physical production with information-intensive technologies such as automation, AI, electronics, semiconductors, and digital fabrication.
+
+For an Information Systems perspective, this is particularly relevant because the selected projects illustrate how technology can function not only as a standalone industry but also as an enabling layer within manufacturing, transportation, education, and other sectors.
+
 
 ### Finding 3 — Technology and Knowledge Transfer
 
-*To be completed.*
+The technology focus of the selected projects spans automation, digital fabrication, 3D printing and scanning, industrial robotics, Industry 4.0, electric vehicles, electric powertrains, semiconductors, artificial intelligence, autonomous driving, and battery technology.
+
+Rather than appearing only as standalone technology projects, these technologies are frequently embedded within other industries and activities. The selected automotive projects, for example, combine manufacturing with EVs, electrification, autonomous-driving systems, electronic systems, and semiconductor-related technologies. The El Salvador cases similarly connect technology with education, entrepreneurship, automation, prototyping, and digital fabrication.
+
+This suggests that, within the selected cases, technology often functions as an enabling layer across industries rather than as an isolated sector. This is particularly relevant from an Information Systems perspective because digital technologies can support changes in manufacturing, education, transportation, entrepreneurship, and research and development.
+
+The finding is consistent with broader Korea-U.S. cooperation priorities that identify semiconductors, batteries, artificial intelligence, and autonomous robotics as critical areas for investment and research collaboration. However, the project's 10-case sample is too small to establish that these patterns represent Korean international activity as a whole.
 
 ## Limitations
 
