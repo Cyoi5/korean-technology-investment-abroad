@@ -33,15 +33,12 @@ Because the sample is purposively selected and relatively small, the findings sh
 
 ## Dataset
 
-The dataset contains 10 documented Korean projects:
+The dataset contains 10 documented projects involving South Korean companies and organizations across El Salvador, Mexico, and the United States.
 
-- El Salvador: 3 projects
-- Mexico: 4 projects
-- United States: 3 projects
+- **[View dataset (CSV)](data/korean_projects_dataset.csv)** — browser-readable version
+- **[Download Excel workbook](data/korean_projects_dataset.xlsx)** — full workbook containing the dataset, pivot tables, and charts
 
-The working dataset was developed in Google Sheets and exported as an Excel workbook for the project repository.
-
-[View the dataset](data/korean_projects_dataset.xlsx)
+The dataset is a purposively selected sample for exploratory analysis and is not intended to represent all South Korean activity in these countries.
 
 ## Analysis
 
@@ -109,7 +106,6 @@ This suggests that, within the selected cases, technology often functions as an 
 
 The finding is consistent with broader Korea-U.S. cooperation priorities that identify semiconductors, batteries, artificial intelligence, and autonomous robotics as critical areas for investment and research collaboration. However, the project's 10-case sample is too small to establish that these patterns represent Korean international activity as a whole.
 
-
 ## Limitations
 
 This project has several limitations that should be considered when interpreting the findings.
@@ -125,7 +121,6 @@ Fourth, investment amounts are not available for every project. Where a reliable
 Finally, the project primarily analyzes publicly documented project characteristics and stated objectives. The dataset does not yet measure the long-term outcomes or effectiveness of technology transfer, such as actual knowledge diffusion, employment outcomes, productivity changes, or the extent to which local organizations adopted transferred technologies.
 
 For these reasons, the findings should be interpreted as exploratory observations about the selected cases rather than representative estimates of South Korean investment, development cooperation, or technology transfer worldwide.
-
 
 ## Future Research
 
