@@ -109,7 +109,6 @@ This suggests that, within the selected cases, technology often functions as an 
 
 The finding is consistent with broader Korea-U.S. cooperation priorities that identify semiconductors, batteries, artificial intelligence, and autonomous robotics as critical areas for investment and research collaboration. However, the project's 10-case sample is too small to establish that these patterns represent Korean international activity as a whole.
 
-## Limitations
 
 ## Limitations
 
